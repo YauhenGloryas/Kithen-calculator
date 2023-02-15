@@ -1,7 +1,7 @@
 0. height tabletop     = 910
 1. gap                 =3
 2. gola height         =3
-3. full kitchen heigh  =2210
+3. full kitchen heigh  =2400
 4. offset from wall    =44
 5. top cab width       =350
 6. tabletop            = 38
